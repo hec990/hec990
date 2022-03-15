@@ -13,8 +13,8 @@ If you have the opportunity, I hope to learn to write code with you.
 
 ## &#x1f92b; Github Status
 <div class="half">
-  <a href="https://github.com/martinageradams"><img src="https://github-readme-stats.vercel.app/api?username=martinageradams&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
-  <a href="https://github.com/martinageradams"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinageradams&count_private=true&hide=scss,css,shell&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
+  <a href="https://github.com/hec990"><img src="https://github-readme-stats.vercel.app/api?username=hec990&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
+  <a href="https://github.com/hec990"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hec990&count_private=true&hide=scss,css,shell&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
 </div>
 
 
