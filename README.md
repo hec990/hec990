@@ -1,8 +1,10 @@
 ## &#x1f92b; Hey, guys. I'm Martin Ager Adams.
-
-I am currently working in Shanghai. Glad you came to my GitHub homepage. 
+I'm a programmer who loves to run marathons. Glad you came to my GitHub homepage.
 
 If you have the opportunity, I hope to learn to write code with you.
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:1296522554@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1296522554@qq.com-blue?style=flat-square&logo=gmail"></a>
 
 ## &#x1f92b; Languages
 
@@ -16,11 +18,3 @@ If you have the opportunity, I hope to learn to write code with you.
   <a href="https://github.com/hec990"><img src="https://github-readme-stats.vercel.app/api?username=hec990&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
   <a href="https://github.com/hec990"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hec990&count_private=true&hide=scss,css,shell&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
 </div>
-
-
-### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:1296522554@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1296522554@qq.com-blue?style=flat-square&logo=gmail"></a>
-
-
-### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/Volcano-Yang/count.svg" />
