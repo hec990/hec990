@@ -18,6 +18,9 @@ If you have the opportunity, I hope to learn to write code with you.
 </div>
 
 
-## &#x1f92b; Github Visitors
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:1296522554@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1296522554@qq.com-blue?style=flat-square&logo=gmail"></a>
 
-[![Top Langs](https://profile-counter.glitch.me/sky5454/count.svg)](https://github.com/hec990)
+
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/Volcano-Yang/count.svg" />
